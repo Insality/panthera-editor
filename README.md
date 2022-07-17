@@ -1,9 +1,10 @@
 
-[![](media/panthera_logo.png)](https://insality.github.io/panthera-editor/)
+[![](media/panthera_logo.png)](https://insality.github.io/panthera-editor/editor)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge&logoWidth=20&labelColor=gray&logoColor=fe8e86)](https://github.com/sponsors/insality) [![](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=kofi&color=%239cf&logoColor=9cf&style=for-the-badge&logoWidth=20&labelColor=gray)](https://ko-fi.com/insality)
 
 **Panthera** - the online tool for visual creating animation for **Defold**
 
+[**Panthera Online Editor Link**](https://insality.github.io/panthera-editor/editor)
 
 ## Features
 
