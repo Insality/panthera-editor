@@ -1,3 +1,4 @@
+
 [![](media/panthera_logo.png)](https://insality.github.io/panthera-editor/)
 [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge&logoWidth=20&labelColor=gray&logoColor=fe8e86)](https://github.com/sponsors/insality) [![](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=kofi&color=%239cf&logoColor=9cf&style=for-the-badge&logoWidth=20&labelColor=gray)](https://ko-fi.com/insality)
 
@@ -19,7 +20,7 @@
 
 ## Manual
 
-[See the Manual here](manual.md) to learn Panthera Editor
+[See the Manual here](docs/Manual.md) to learn Panthera Editor
 
 
 ## License
@@ -34,7 +35,7 @@ If you have any issues, questions or suggestions please [create an issue](https:
 
 ## Other links
 
-- [Future Plans](future_plans.md)
+- [Future Plans](docs/Plans.md)
 
 
 ## ❤️ Support project ❤️
