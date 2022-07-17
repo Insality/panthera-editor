@@ -7,6 +7,11 @@
 To move camera - hold left mouse button and drag it. Use mouse wheel to zoom in and zoom out.
 
 
+### Select and move nodes
+
+You can select node with left button. You can drag selected nodes as usual to change their position property on the editor board
+
+
 ### Change initial state of animation
 
 To change initial state of any node - set animation time to 0 and edit node state in _Node info_ panel. Any changes at animation time 0 is changes in initial node state.
