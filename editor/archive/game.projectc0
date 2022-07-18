@@ -1,12 +1,12 @@
 [project]
 title = Panthera Animation
-version = 0.7.3
+version = 0.7.4
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
-commit_sha = 23b06cbf66934de362ee7fd53f22a8b34b1577a4
-build_date = 2022-07-17T17:44:16Z
+commit_sha = 948cdf71c0aff5cc586f689fb5fab50b8a2bfff4
+build_date = 2022-07-18T17:16:28Z
 title_as_file_name = PantheraAnimation
 
 [display]
@@ -124,7 +124,7 @@ default_language = en
 localizations = en
 
 [android]
-version_code = 153
+version_code = 159
 minimum_sdk_version = 16
 target_sdk_version = 31
 package = com.example.todo
@@ -211,7 +211,7 @@ input_multitouch = touch_multi
 [gameanalytics]
 game_key_html5 = 8d39fae44017ab3ea1a9b1a6575e71f3
 secret_key_html5 = 4f0accde84629275a5cfcc00f0902d152fe61a8b
-build_html5 = 0.7.0
+build_html5 = 0.7.4
 
 [native_extension]
 app_manifest = /editor/system/editor.appmanifest
