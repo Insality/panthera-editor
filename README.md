@@ -1,6 +1,6 @@
 
 [![](media/panthera_logo.png)](https://insality.github.io/panthera-editor/editor)
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge&logoWidth=20&labelColor=gray&logoColor=fe8e86)](https://github.com/sponsors/insality) [![](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=kofi&color=%239cf&logoColor=9cf&style=for-the-badge&logoWidth=20&labelColor=gray)](https://ko-fi.com/insality)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/insality) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/insality) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/insality)
 
 **Panthera** - the online tool for visual creating animation for **Defold**
 
@@ -41,4 +41,4 @@ If you have any issues, questions or suggestions please [create an issue](https:
 
 ## ❤️ Support project ❤️
 
-[![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86&style=for-the-badge&logoWidth=20&labelColor=gray&logoColor=fe8e86)](https://github.com/sponsors/insality) [![](https://img.shields.io/static/v1?label=Buy%20me%20a%20coffee&message=%E2%9D%A4&logo=kofi&color=%239cf&logoColor=9cf&style=for-the-badge&logoWidth=20&labelColor=gray)](https://ko-fi.com/insality)
+[![Github-sponsors](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA)](https://github.com/sponsors/insality) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/insality) [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/insality)
