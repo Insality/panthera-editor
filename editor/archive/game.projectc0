@@ -1,12 +1,12 @@
 [project]
 title = Panthera Animation
-version = 0.7.164
+version = 0.7.7
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
-commit_sha = 7680f41e5b2fc26115f9c6df0fa540fae1963c83
-build_date = 2022-10-05T16:52:07Z
+commit_sha = 7061b69e12a1d0bead52d45216c64729265f6363
+build_date = 2022-10-05T17:02:42Z
 title_as_file_name = PantheraAnimation
 
 [display]
@@ -124,7 +124,7 @@ default_language = en
 localizations = en
 
 [android]
-version_code = 164
+version_code = 1
 minimum_sdk_version = 16
 target_sdk_version = 31
 package = com.example.todo
