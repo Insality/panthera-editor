@@ -1,12 +1,12 @@
 [project]
 title = Panthera Animation
-version = 0.7.7
+version = 0.7.8
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
-commit_sha = 7061b69e12a1d0bead52d45216c64729265f6363
-build_date = 2022-10-05T17:02:42Z
+commit_sha = 7669e323891791fbf7e1a66352ccf9277734b360
+build_date = 2022-10-12T16:51:28Z
 title_as_file_name = PantheraAnimation
 
 [display]
@@ -67,13 +67,13 @@ memory_size = 512
 output_spirv = 0
 
 [sound]
-gain = 1
-max_sound_data = 0
-max_sound_buffers = 0
-max_sound_sources = 0
-max_sound_instances = 0
-max_component_count = 0
-use_thread = 1
+gain = 0.0
+max_sound_data = 1
+max_sound_buffers = 1
+max_sound_sources = 1
+max_sound_instances = 1
+max_component_count = 1
+use_thread = 0
 
 [resource]
 http_cache = 0
@@ -140,7 +140,7 @@ proguard =
 [osx]
 app_icon = 
 infoplist = /builtins/manifests/osx/Info.plist
-bundle_identifier = example.unnamed
+bundle_identifier = free.insality.panthera
 bundle_name = 
 bundle_version = 1
 default_language = en
@@ -156,7 +156,7 @@ htmlfile = /builtins/manifests/web/engine_template.html
 cssfile = /builtins/manifests/web/light_theme.css
 archive_location_prefix = archive
 archive_location_suffix = 
-engine_arguments = 
+engine_arguments = --verify-graphics-calls=false
 wasm_streaming = 0
 show_fullscreen_button = 0
 show_made_with_defold = 0
@@ -189,6 +189,7 @@ subpixels = 1
 
 [profiler]
 track_cpu = 0
+sleep_between_server_updates = 0
 
 [liveupdate]
 settings = /liveupdate.settings
