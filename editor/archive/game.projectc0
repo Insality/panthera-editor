@@ -1,12 +1,12 @@
 [project]
 title = Panthera Animation
-version = 0.7.8
+version = 0.7.9
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
-commit_sha = 7669e323891791fbf7e1a66352ccf9277734b360
-build_date = 2022-10-12T16:51:28Z
+commit_sha = 4b2be49e0d85fb4de24a79ec84b91e1471112539
+build_date = 2022-10-15T22:16:23Z
 title_as_file_name = PantheraAnimation
 
 [display]
@@ -154,6 +154,7 @@ custom_heap_size = 0
 heap_size = 1024
 htmlfile = /builtins/manifests/web/engine_template.html
 cssfile = /builtins/manifests/web/light_theme.css
+splash_image = /media/panthera_logo.png
 archive_location_prefix = archive
 archive_location_suffix = 
 engine_arguments = --verify-graphics-calls=false
