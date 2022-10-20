@@ -149,16 +149,15 @@ All hotkeys you can see in _Status Bar_ on hover mouse on button (not every butt
 
 - **F** - Center camera on selected node
 - **Up/Down** - Select next or previous node
-- **(CMD/CTRL) + Up/Down** - Change order of selected order
+- **Shift + Up/Down** - Change order of selected order
 - **Left/Right** - Select next or previous animation key of current property
-- **(CMD/CTRL) + R** - Set animation time to 0
-- **(CMD/CTRL + SHIFT) + R** - Set animation time to the end
-- **(CMD/CTRL) + S** - Save current project
-- **(CMD/CTRL) + Z** - Undo action
-- **(CMD/CTRL) + Y** - Redo action
-- **(CMD/CTRL) + Shift + Z** - Undo action
-- **(CMD/CTRL) + N** - Add new node
-- **(CMD/CTRL) + D** - Delete selected node
-- **(CMD/CTRL) + P** - Toggle parent mode for selected mode
+- **R** - Set animation time to 0
+- **Shift + R** - Set animation time to the end
+- **Shift + S** - Save current project
+- **Shift/Ctrl + Z** - Undo action
+- **Shift/Ctrl + Y** - Redo action
+- **Shift + N** - Add new node
+- **Shift + D** - Delete selected node
+- **Shift + P** - Toggle parent mode for selected mode
 - **P** - Open Node settings window
 - **Space** - Play/Stop animation
