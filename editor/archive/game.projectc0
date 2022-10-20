@@ -1,12 +1,12 @@
 [project]
 title = Panthera Animation
-version = 0.7.10
+version = 0.7.11
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
-commit_sha = a5b41c6a9d40aa08a3489a29104406e92f4e2f29
-build_date = 2022-10-20T18:48:34Z
+commit_sha = 86e623cbb8386116f77266ef329555e0b8eea317
+build_date = 2022-10-20T19:26:26Z
 title_as_file_name = PantheraAnimation
 
 [display]
@@ -54,8 +54,8 @@ main_collection = /editor/editor.collectionc
 render = /editor/system/default.renderc
 
 [graphics]
-default_texture_min_filter = linear
-default_texture_mag_filter = linear
+default_texture_min_filter = nearest
+default_texture_mag_filter = nearest
 max_draw_calls = 256
 max_characters = 8192
 max_debug_vertices = 10000
