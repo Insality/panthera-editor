@@ -107,7 +107,7 @@ To rename project open the _Projects_ window and use project name input field to
 
 ### Share your project
 
-To share your project - export it as Json and share it. Also your probably to import your Images to share it with project file.
+To share your project - export it as Json and share it. This file will contains used images from image cache and also will be imported at this file load.
 
 
 ### Defold *gui or *.collection import
@@ -126,21 +126,27 @@ Since in GO we can't animate some values, some of property will be not exported 
  - slice9
 
 
-### Simple export
-
-Simple export - the export with just one function with animation callbacks to make the animation flow.
-It's useful to copy code to use it in your way. It's not force you to use module or additional functions/params like other exports do.
-
-
-### Module export
+### Export
 
 Module export - the export with lua module with several functions to have more control on animations. It will have functions start, stop and play (start will create animation table and play it immediately). Also the animation itself have a bunch of parameters to play (like speed, callbacks, is_relative flag etc)
 
 #### Animation Options
 
+**animation_id**
+The animation id to play. By default it is "default" animation. You can add several animations in your project and play these animations with one **Panthera** instance.
+
+**speed**
+Speed multiplier for animation. It should be greater than 0.
+
 **is_relative**
 All animation will be relative to initial node properties every time animation is started
 Slice9 and Color properties can't relative, but they will skip initial node values setup
+
+**is_loop**
+Usual flag to run animation in loop mode. On each loop the end callback will be called.
+
+**is_skip_init**
+If true and animation is not _is_relative_, the node setup on initial data will be skipped. It can be useful to escape the instant switching between animations.
 
 
 ## Hotkeys
@@ -159,5 +165,5 @@ All hotkeys you can see in _Status Bar_ on hover mouse on button (not every butt
 - **Shift + N** - Add new node
 - **Shift + D** - Delete selected node
 - **Shift + P** - Toggle parent mode for selected mode
-- **P** - Open Node settings window
+- **O** - Open Node settings window
 - **Space** - Play/Stop animation
