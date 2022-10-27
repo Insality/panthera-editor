@@ -4,7 +4,7 @@
 
 [![GitHub tag (latest by date)](https://img.shields.io/github/v/tag/insality/panthera-editor?label=Release)](https://github.com/Insality/panthera-editor/tags)
 
-**Panthera** - the online tool for visual creating animation for **Defold**
+**Panthera** - the online tool for visual creation animation for **Defold**
 
 **Panthera** main purpose - give your the huge speed up at Defold animation flow even with more accuracy. You not required to do animations via code and run the game every change to see the changes. Make animations in the **Panthera** and export it via code right into the game!
 
