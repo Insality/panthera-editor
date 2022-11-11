@@ -1,13 +1,13 @@
 [project]
 title = Panthera Animation
-version = 0.8.4
+version = 0.8.5
 write_log = 0
 compress_archive = 1
 publisher = Insality
 developer = Insality
 bundle_resources = /bundle
-commit_sha = a210633e2f5de80ad0f87178504911fed5f904c1
-build_date = 2022-11-11T21:55:23Z
+commit_sha = 395a11e5d55736ee704b0ea566fc875ec828fe8c
+build_date = 2022-11-11T22:01:28Z
 title_as_file_name = PantheraAnimation
 
 [display]
